@@ -1,2 +1,2 @@
 # hello-world
-HOw are you?
+How are you?
